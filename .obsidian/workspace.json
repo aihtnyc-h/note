@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-28.md",
+                "file": "에러노트/2024-11-28.md",
                 "mode": "source",
                 "source": false
               },
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -164,21 +164,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "560170cd12522d6e",
+  "active": "aa4eed7a28f62359",
   "lastOpenFiles": [
+    "할일/2024-11-28.md",
+    "에러노트/2024-11-28.md",
     "할일/2024-11-27.md",
     "할일/2024-11-26.md",
     "할일/2024-11-25.md",
     "할일/2024-11-22.md",
-    "2024-11-28.md",
     "에러노트/2024-11-19.md",
     "에러노트/2024-11-13.md",
     "에러노트/2024-11-21.md",
@@ -209,7 +210,6 @@
     "할일/2024-11-05.md",
     "할일/2024-11-06.md",
     "에러노트/2024-11-06.md",
-    "에러노트/2024-11-05.md",
     "에러노트",
     "무제 파일.canvas",
     "할일"
