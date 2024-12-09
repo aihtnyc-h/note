@@ -10,15 +10,17 @@
           {
             "id": "f1b06a435c05b4c7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-06.md",
+                "file": "2024-12-09.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2024-12-06"
+              "title": "2024-12-09"
             }
           }
         ]
@@ -174,10 +176,12 @@
   },
   "active": "f1b06a435c05b4c7",
   "lastOpenFiles": [
-    "Pasted image 20241206144124.png",
-    "2024-12-05.md",
+    "Pasted image 20241209152808.png",
     "2024-12-06.md",
+    "2024-12-05.md",
     "2024-12-04.md",
+    "2024-12-09.md",
+    "Pasted image 20241206144124.png",
     "2024-11-29.md",
     "에러노트/2024-11-27.md",
     "에러노트/2024-11-28.md",
@@ -199,7 +203,6 @@
     "할일/2024-11-14.md",
     "2024-11-13.md",
     "2024-11-12.md",
-    "2024-11-11.md",
     "Pasted image 20241120172035.png",
     "Pasted image 20241120172024.png",
     "Pasted image 20241120172001.png",
@@ -209,7 +212,6 @@
     "Pasted image 20241120171811.png",
     "Pasted image 20241119164642.png",
     "Pasted image 20241119164634.png",
-    "Pasted image 20241119151536.png",
     "에러노트",
     "무제 파일.canvas",
     "할일"
