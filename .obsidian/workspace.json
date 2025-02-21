@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-20.md",
+                "file": "2025-02-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-20"
-            }
-          },
-          {
-            "id": "0e98495d5123a441",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "2025-02-21"
             }
           }
         ]
@@ -187,8 +175,9 @@
   },
   "active": "8b5d9bfcf31e241c",
   "lastOpenFiles": [
-    "2025-02-19.md",
     "2025-02-20.md",
+    "2025-02-21.md",
+    "2025-02-19.md",
     "2025-02-18.md",
     "2025-02-17.md",
     "2025-02-14.md",
@@ -212,7 +201,6 @@
     "2024-12-09.md",
     "2024-12-13.md",
     "2024-12-19.md",
-    "2024-12-27.md",
     "Pasted image 20250122141707.png",
     "Pasted image 20250122134502.png",
     "Pasted image 20250120103651.png",
